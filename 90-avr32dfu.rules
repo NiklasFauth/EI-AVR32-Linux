@@ -1,0 +1,2 @@
+# AVR32 DFU programmer (bootloader on shipped devices)
+ATTRS{idVendor}=="03eb", ATTRS{idProduct}=="2ff6", GROUP="plugdev", MODE="0660"
